@@ -102,7 +102,7 @@ In this application, authentication(login and logout) processing are implements 
 
 Display processing flow of login form are following.
 
-![alt text](./images/flow-view-login-form.png "Flow of view the login form page")
+[alt text](./images/flow-view-login-form.png "Flow of view the login form page")
 
 ### Access the protected page when not authenticate
 
